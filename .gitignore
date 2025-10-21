@@ -29,6 +29,7 @@
 *.dylib
 
 # Executables
+wsl_fixcore
 *.exe
 *.out
 *.app
